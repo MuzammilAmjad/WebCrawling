@@ -1,0 +1,13 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+ul.list-group {
+  list-style: none;
+  padding: 0;
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+}
